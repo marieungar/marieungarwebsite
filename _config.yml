@@ -1,6 +1,6 @@
 title: Marie Ungar
 url: "https://marieungar.com"
-baseurl: "/researcher/"
+baseurl: "/home/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
