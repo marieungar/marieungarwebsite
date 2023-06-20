@@ -3,8 +3,6 @@ layout: default
 is_contact: true
 ---
 <br>
-<br>
-<br>
 marieungar  ((at))  college.harvard.edu
 <br>
 <br>
