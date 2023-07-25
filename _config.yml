@@ -3,7 +3,7 @@ url: "https://marieungar.com"
 baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./favicon.png"
 
 tracking_id: #
 
