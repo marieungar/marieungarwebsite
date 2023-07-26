@@ -5,7 +5,7 @@ is_contact: true
 <br>
 <br>
 <br>
-<br>
+
 marieungar  ((at))  college.harvard.edu
 <br>
 <br>
