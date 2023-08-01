@@ -38,8 +38,8 @@
     }
     .profile-picture {
         height: auto;
-        /* width was previously set to $image-size */
-        width: 51%;
+        /* width for garamond set to $image-size, for work sans set to 51% */
+        width: $image-size;
         position: relative;
         margin: -10px 0 0 15px;
         display:block;
