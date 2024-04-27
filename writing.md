@@ -7,6 +7,8 @@ is_contact: false
 <br>
  <b>Poetry</b>
 
+“<a href="https://dialogist.org/poetry/2024-week-17-marie-ungar" target="_blank">Decoy" and "Reckless,</a>” <i>DIALOGIST,</i> 2024
+
 “<a href="https://news.harvard.edu/gazette/story/2023/04/cambridge-city-of-poets/" target="_blank">I Am Always Getting Myself into Such Fixes</a>” (reprint), <i>The Harvard Gazette,</i> 2023
 
 “<a href="https://masspoetry.org/myles-taylor-marie-ungar/" target="_blank">Hypochondria</a>” (reprint), <i>The Hard Work of Hope,</i> a newsletter series by Mass Poetry, 2022
