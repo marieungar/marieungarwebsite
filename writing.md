@@ -30,6 +30,7 @@ is_contact: false
 “<a href="https://asapjournal.com/experimental-criticism-3-notes-on-cringe-marie-ungar/" target="_blank">Notes on Cringe</a>,” <i>ASAP/J,</i> 2023
 <br>
 <br>
-<b>Arts journalism</b> in <a href="https://www.thecrimson.com/writer/1214712/Marie_A._Ungar/" target="_blank"><i>The Crimson.</i></a> Reporting in <a href="https://digboston.com/boston-artists-fear-displacement-a-familiar-story-with-a-potential-twist/" target="_blank"><i>DigBoston</i></a> and <a href="https://www.cvilletomorrow.org/author/marie-ungar/" target="_blank"><i>Charlottesville Tomorrow.</i></a>
+<br>
+Arts journalism in <a href="https://www.thecrimson.com/writer/1214712/Marie_A._Ungar/" target="_blank"><i>The Crimson.</i></a> Reporting in <a href="https://digboston.com/boston-artists-fear-displacement-a-familiar-story-with-a-potential-twist/" target="_blank"><i>DigBoston</i></a> and <a href="https://www.cvilletomorrow.org/author/marie-ungar/" target="_blank"><i>Charlottesville Tomorrow.</i></a>
 <br>
 <br>
