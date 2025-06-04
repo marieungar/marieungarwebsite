@@ -31,6 +31,7 @@ is_contact: false
 <br>
 <br>
 <br>
+<br>
 Arts journalism in <a href="https://www.thecrimson.com/writer/1214712/Marie_A._Ungar/" target="_blank"><i>The Crimson.</i></a> Reporting in <a href="https://digboston.com/boston-artists-fear-displacement-a-familiar-story-with-a-potential-twist/" target="_blank"><i>DigBoston</i></a> and <a href="https://www.cvilletomorrow.org/author/marie-ungar/" target="_blank"><i>Charlottesville Tomorrow.</i></a>
 <br>
 <br>
