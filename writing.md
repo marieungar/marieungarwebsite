@@ -7,6 +7,8 @@ is_contact: false
 <br>
  <b>Poetry</b>
 
+ “<a href="https://www.cherryroadreview.com/winter-hill-marie-ungar" target="_blank">Winter Hill,</a>” <i>Cherry Road Review,</i> 2025
+
 “<a href="https://dialogist.org/poetry/2024-week-17-marie-ungar" target="_blank">Decoy" and "Reckless,</a>” <i>DIALOGIST,</i> 2024
 
 “<a href="https://news.harvard.edu/gazette/story/2023/04/cambridge-city-of-poets/" target="_blank">I Am Always Getting Myself into Such Fixes</a>” (reprint), <i>The Harvard Gazette,</i> 2023
