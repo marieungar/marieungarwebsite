@@ -31,7 +31,7 @@ is_contact: false
 
 “<a href="https://oxonianreview.com/articles/nothing-impossible-happens" target="_blank">Nothing Impossible Happens" (On Sebastian Castillo's <i>Fresh, Green Life</i>)</a>, <i>The Oxonian Review,</i> 2025
 
-“<a href="https://asapjournal.com/experimental-criticism-3-notes-on-cringe-marie-ungar/" target="_blank">Notes on Cringe</a>,” <i>ASAP/J,</i> 2023
+“<a href="https://asapjournal.com/experimental-criticism-3-notes-on-cringe-marie-ungar/" target="_blank">Notes on Cringe</a>,” <i>ASAP Review,</i> 2023
 
 <br>
 <br>
