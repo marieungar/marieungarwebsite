@@ -7,7 +7,7 @@ is_contact: false
 <br>
  <b>Poetry</b>
 
- “<a href="https://www.cherryroadreview.com/winter-hill-marie-ungar" target="_blank">Winter Hill,</a>” <i>Cherry Road Review,</i> 2025
+ “<a href="https://www.cherryroadreview.com/winter-hill-marie-ungar" target="_blank">Winter Hill,</a>” <i>Volta Magazine,</i> 2025
 
 “<a href="https://dialogist.org/poetry/2024-week-17-marie-ungar" target="_blank">Decoy" and "Reckless,</a>” <i>DIALOGIST,</i> 2024
 
