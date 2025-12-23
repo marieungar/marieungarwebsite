@@ -7,6 +7,8 @@ is_contact: false
 <br>
  <b>Poetry</b>
 
+ “<a href="poetrynw.org/issues/winter-spring-2026/" target="_blank">True Poem,</a>” <i>Poetry Northwest,</i> 2026
+
  “<a href="https://www.cherryroadreview.com/winter-hill-marie-ungar" target="_blank">Winter Hill,</a>” <i>Volta Magazine,</i> 2025
 
 “<a href="https://dialogist.org/poetry/2024-week-17-marie-ungar" target="_blank">Decoy" and "Reckless,</a>” <i>DIALOGIST,</i> 2024
