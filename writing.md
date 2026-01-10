@@ -7,7 +7,9 @@ is_contact: false
 <br>
  <b>Poetry</b>
 
- “<a href="https://www.poetrynw.org/issues/winter-spring-2026/" target="_blank">True Poem,</a>” <i>Poetry Northwest,</i> 2026
+ “An Opening,” <i>Poetry Northwest</i> (online), forthcoming 2026
+
+ “<a href="https://www.poetrynw.org/issues/winter-spring-2026/" target="_blank">True Poem,</a>” <i>Poetry Northwest</i> (print), 2026
 
  “<a href="https://www.cherryroadreview.com/winter-hill-marie-ungar" target="_blank">Winter Hill,</a>” <i>Volta Magazine,</i> 2025
 
