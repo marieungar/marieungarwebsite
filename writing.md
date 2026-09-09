@@ -11,6 +11,8 @@ is_contact: false
 
  “<a href="TruePoem.pdf" target="_blank">True Poem,</a>” <i>Poetry Northwest</i> (<a href="https://www.poetrynw.org/issues/winter-spring-2026/" target="_blank">print issue</a>), 2026
 
+ “<a href="AtGrelleForelle.pdf" target="_blank">At Grelle Forelle,</a>” <i>Between Hours</i>, zine from La Bonne Musique, 2026
+
  “<a href="https://www.cherryroadreview.com/winter-hill-marie-ungar" target="_blank">Winter Hill,</a>” <i>Volta Magazine</i>, 2025
 
 “<a href="https://dialogist.org/poetry/2024-week-17-marie-ungar" target="_blank">Decoy" and "Reckless,</a>” <i>DIALOGIST</i>, 2024
