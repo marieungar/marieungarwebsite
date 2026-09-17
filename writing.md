@@ -7,13 +7,13 @@ is_contact: false
 <br>
  <b>Poetry</b>
 
- “Secret Poem," <i>Volta Magazine</i>, forthcoming 2026
-
  “<a href="https://www.poetrynw.org/poetry/an-opening/" target="_blank">An Opening,</a>” <i>Poetry Northwest</i> (online), 2026
 
  “<a href="TruePoem.pdf" target="_blank">True Poem,</a>” <i>Poetry Northwest</i> (<a href="https://www.poetrynw.org/issues/winter-spring-2026/" target="_blank">print issue</a>), 2026
 
  “<a href="AtGrelleForelle.pdf" target="_blank">At Grelle Forelle,</a>” <i>Between Hours</i>, zine from La Bonne Musique, 2026
+
+ “<a href="https://voltamagazine.org/secret-poem" target="_blank">Secret Poem,</a>" <i>Volta Magazine</i>, 2026
 
  “<a href="https://www.cherryroadreview.com/winter-hill-marie-ungar" target="_blank">Winter Hill,</a>” <i>Volta Magazine</i>, 2025
 
