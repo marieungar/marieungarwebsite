@@ -11,6 +11,8 @@ is_contact: false
 
  “<a href="TruePoem.pdf" target="_blank">True Poem,</a>” <i>Poetry Northwest</i> (<a href="https://www.poetrynw.org/issues/winter-spring-2026/" target="_blank">print issue</a>), 2026
 
+ “<a href="https://wordpress.boogcity.com/2026/11/14/poetry-marie-ungar/" target="_blank">Keeping Track,</a>” <i>Boog City</i>, 2026
+
  “<a href="AtGrelleForelle.pdf" target="_blank">At Grelle Forelle,</a>” <i>Between Hours</i>, zine from La Bonne Musique, 2026
 
  “<a href="https://voltamagazine.org/secret-poem" target="_blank">Secret Poem,</a>" <i>Volta Magazine</i>, 2026
